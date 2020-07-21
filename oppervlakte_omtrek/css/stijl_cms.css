@@ -1,0 +1,25 @@
+html, body
+{
+	font-family: 'Ubuntu';
+}
+
+.navbar
+{
+	z-index: 122 !important;
+	width: 356px;
+}
+
+
+#stage {
+
+	width:550px;
+	height:550px;
+	border:1px solid #bdbdbd;
+	margin-bottom: 10px;
+	/* margin-right: 30px; */
+}
+
+#list li
+{
+	/* width:220px !important; */
+}
