@@ -8,4 +8,4 @@ infinite word script - game
 my-progress-app - android studio
 
 # Projects from HBO
-Go in Python folder
+Go in Python apps folder
